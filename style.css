@@ -23,10 +23,6 @@ main {
   background-color: #eeeeee;
 }
 
-.step-box:last-child {
-  margin-right: 0;
-}
-
 .step-img1 {
   height: 150px;
   background-image: url(img/flow01.png);
